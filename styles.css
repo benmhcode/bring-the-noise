@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button,
+input,
+select {
+  width: 200px;
+  height: 30px;
+}
